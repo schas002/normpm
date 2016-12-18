@@ -1,0 +1,23 @@
+{
+  "name": "normpm",
+  "version": "0.0.0",
+  "description": "The normal package manager",
+  "main": "normpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schas002/normpm.git"
+  },
+  "keywords": [
+    "package",
+    "manager"
+  ],
+  "author": "Andrew Zyabin <schastlilya@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/schas002/normpm/issues"
+  },
+  "homepage": "https://github.com/schas002/normpm"
+}
