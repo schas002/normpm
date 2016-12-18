@@ -1,0 +1,2 @@
+var manifest = require('./manifest');
+
